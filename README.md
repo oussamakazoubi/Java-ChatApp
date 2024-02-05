@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/gamics)
@@ -52,3 +53,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 This project is **free to use** and does not contains any license.
+=======
+# Java-ChatApp-EHTP
+Desktop Chat Application
+>>>>>>> eb13c146108f3c3e5764e9109e504a249e31a9e5
